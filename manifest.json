@@ -1,0 +1,17 @@
+{
+  "name": "Sri Satyadeva Nursery - Pulla's Horticulture Hub",
+  "short_name": "Satyadeva Plants",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0F382A",
+  "theme_color": "#0F382A",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "ChatGPT Image Sep 27, 2026, 04_55_38 AM (2).png",
+      "sizes": "192x192 512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
